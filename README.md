@@ -14,11 +14,12 @@ TryCatch는 회원제 커뮤니티에 맞게 기본적인 회원 기능, 게시�
 - DataBase: MySql
 - IDE: Eclipse
 - Cloud: AWS database
----
-TryCatch의 시연영상입니다. https://youtu.be/Iredlfuvkhc
 
 ### 역할분담
 - 박민재: 조장, 게시판 글쓰기 , 목록 출력 , 개별 글 출력 , 글쓰기 CRUD , 리뷰 및 전반적인 게시판 기능 , 비속어 필터링
 - 신예지: PPT, 통합검색페이지 프론트와 기능, 검색페이지와 게시판의 연결, 소켓을 활용한 알람메세지 출력
 - 김근배: Jira, 회원 가입, 로그인, 마이 페이지 조회/수정/삭제, 포인트 내역 조회, 포인트 상점, 포인트 관련 기능
 - 황기준: GIT, 소켓을 통해 Chatting 기능, 각각의 방과 채팅참여자 실시간 출력
+---
+TryCatch의 시연영상입니다. https://youtu.be/Iredlfuvkhc
+
